@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/ludo-classic-android-game-250068-250083/android_ludo_frontend"
+}
